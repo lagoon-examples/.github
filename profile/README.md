@@ -7,8 +7,8 @@ The full suite of examples is collected at https://github.com/uselagoon/lagoon-e
 ## Drupal Examples
 
 - [Drupal9-base](https://github.com/lagoon-examples/drupal9-base) - Drupal 9, PHP 8, NGINX, MariaDB
-  - Drupal9-solr - As Drupal9-base, with Solr as a search backend
-  - Drupal9-elasticsearch - As Drupal9-base, with Elasticsearch as a search backend
+  - [Drupal9-solr](https://github.com/lagoon-examples/drupal9-solr) - As Drupal9-base, with Solr as a search backend
+  - [Drupal9-elastic](https://github.com/lagoon-examples/drupal9-elastic) - As Drupal9-base, with Elasticsearch as a search backend
   - Drupal9-redis - As Drupal9-base, with Redis as a cache backend
   - Drupal9-varnish - As Drupal9-base, with Varnish as an HTTP cache
 - [Drupal9-postgres](https://github.com/lagoon-examples/drupal9-postgres) - Drupal 9, PHP 8, NGINX PostgreSQL
