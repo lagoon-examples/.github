@@ -12,7 +12,7 @@ A subset of these has been collected and tested at https://github.com/uselagoon/
 - [Drupal9-varnish](https://github.com/lagoon-examples/drupal9-varnish) - As Drupal9-base, with Varnish 5 as an HTTP cache
 - [Drupal9-full](https://github.com/lagoon-examples/drupal9-full) - As Drupal9-base, but with Redis 6 as a cache backend and Solr 8 as a search backend
 - [Drupal9-postgres](https://github.com/lagoon-examples/drupal9-postgres) - As Drupal 9-base, with PostgreSQL 14 as a database backend
-- [Drupal9-prerelease](https://github.com/lagoon-examples/drupal10-prerelease) - Drupal 10, PHP 8, NGINX, MariaDB
+- [Drupal10-prerelease](https://github.com/lagoon-examples/drupal10-prerelease) - Drupal 10, PHP 8, NGINX, MariaDB
 
 - [Wordpress-base](https://github.com/lagoon-examples/wordpress-base) - Wordpress 6, PHP8, NGINX, MariaDB
 
