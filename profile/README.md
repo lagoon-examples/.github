@@ -6,13 +6,13 @@ A subset of these has been collected and tested at https://github.com/uselagoon/
 
 ## Templates
 
-- [Drupal9-base](https://github.com/lagoon-examples/drupal9-base) - Drupal 9, PHP 8, NGINX, MariaDB, also includes an PHP8.1-based version on a [branch](https://github.com/lagoon-examples/drupal9-base/tree/php81)
+- [Drupal9-base](https://github.com/lagoon-examples/drupal9-base) - Drupal 9, PHP 8.1, NGINX, MariaDB
 - [Drupal9-solr](https://github.com/lagoon-examples/drupal9-solr) - As Drupal9-base, with Solr 7 as a search backend, also includes a Solr 8-based version on a [branch](https://github.com/lagoon-examples/drupal9-solr/tree/solr8)
-- [Drupal9-elastic](https://github.com/lagoon-examples/drupal9-elastic) - As Drupal9-base, with Elasticsearch as a search backend, also includes an Opensearch-based version on a [branch](https://github.com/lagoon-examples/drupal9-elastic/tree/opensearch)
-- [Drupal9-varnish](https://github.com/lagoon-examples/drupal9-varnish) - As Drupal9-base, with Varnish 5 as an HTTP cache
+- [Drupal9-elastic](https://github.com/lagoon-examples/drupal9-elastic) - As Drupal9-base, with Elasticsearch 7 as a search backend, also includes an Opensearch-based version on a [branch](https://github.com/lagoon-examples/drupal9-elastic/tree/opensearch)
+- [Drupal9-varnish](https://github.com/lagoon-examples/drupal9-varnish) - As Drupal9-base, with Varnish 6 as an HTTP cache
 - [Drupal9-full](https://github.com/lagoon-examples/drupal9-full) - As Drupal9-base, but with Redis 6 as a cache backend and Solr 8 as a search backend
 - [Drupal9-postgres](https://github.com/lagoon-examples/drupal9-postgres) - As Drupal 9-base, with PostgreSQL 14 as a database backend
-- [Drupal10-prerelease](https://github.com/lagoon-examples/drupal10-prerelease) - Drupal 10, PHP 8, NGINX, MariaDB
+- [Drupal10-base](https://github.com/lagoon-examples/drupal10-base) - Drupal 10, PHP 8.1, NGINX, MariaDB, also includes an PHP8.2-based version on a [branch](https://github.com/lagoon-examples/drupal10-base/tree/php82)
 
 - [Wordpress-base](https://github.com/lagoon-examples/wordpress-base) - Wordpress 6, PHP8, NGINX, MariaDB
 
