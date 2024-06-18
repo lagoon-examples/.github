@@ -2,28 +2,29 @@
 
 This is a repository of example Lagoon projects - designed for use with [Lagoon](https://lagoon.sh) and its local development environments.
 
-A subset of these has been collected and tested at https://github.com/uselagoon/lagoon-examples.
-
 ## Templates
+
+### Drupal
 
 - [Drupal-base](https://github.com/lagoon-examples/drupal-base) - Drupal 10, PHP 8, NGINX, MariaDB
 - [Drupal-solr](https://github.com/lagoon-examples/drupal-solr) - As Drupal-base, with Solr as a search backend, also includes a Solr 9-based version on a [branch](https://github.com/lagoon-examples/drupal-solr/tree/solr9)
 - [Drupal-opensearch](https://github.com/lagoon-examples/drupal-opensearch) - As Drupal-base, with Opensearch as a search backend
 - [Drupal-postgres](https://github.com/lagoon-examples/drupal-postgres) - As Drupal-base, with PostgreSQL as a database backend
-- [Wordpress-base](https://github.com/lagoon-examples/wordpress-base) - Wordpress 6, PHP8, NGINX, MariaDB
-
 - [Drupal9-varnish](https://github.com/lagoon-examples/drupal9-varnish) - As Drupal9-base, with Varnish 6 as an HTTP cache
 - [Drupal9-full](https://github.com/lagoon-examples/drupal9-full) - As Drupal9-base, but with Redis 6 as a cache backend and Solr 8 as a search backend
 - [Drupal10-base](https://github.com/lagoon-examples/drupal10-base) - Drupal 10, PHP 8.1, NGINX, MariaDB, also includes an PHP8.2-based version on a [branch](https://github.com/lagoon-examples/drupal10-base/tree/php82)
+  
+### Wordpress
+
+- [Wordpress-base](https://github.com/lagoon-examples/wordpress-base) - Wordpress 6, PHP 8, NGINX, MariaDB
+
+### Laravel
+
+- [Laravel-simple](https://github.com/lagoon-examples/laravel-example-simple) - Laravel 11.10.0, NGINX, PHP 8, MySQL, Redis
 
 
 ## Other Examples
 - [Ruby-on-rails](https://github.com/lagoon-examples/ruby-on-rails) - RoR 7, Puma 5, NGINX, MariaDB
-
-## Demos
-
-- Node-example
-- Silverstripe
 
 ## Maintenance of these examples
 
