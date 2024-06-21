@@ -1,30 +1,37 @@
-# Lagoon Example Collection
+# Lagoon Demos & Examples Collection
 
 This is a repository of example Lagoon projects - designed for use with [Lagoon](https://lagoon.sh) and its local development environments.
 
-## Templates
+## Templates [see all](https://github.com/search?q=topic%3Atemplate+org%3Alagoon-examples&type=Repositories)
+Templates are the highest-standard Lagoon templates - they are configured to be a base for your site, and you should be able to add your modules, themes and configs. They are self-contained, built with tests, and regularly updated.
 
 ### Drupal
-
 - [Drupal-base](https://github.com/lagoon-examples/drupal-base) - Drupal 10, PHP 8, NGINX, MariaDB
 - [Drupal-solr](https://github.com/lagoon-examples/drupal-solr) - As Drupal-base, with Solr as a search backend, also includes a Solr 9-based version on a [branch](https://github.com/lagoon-examples/drupal-solr/tree/solr9)
-- [Drupal-opensearch](https://github.com/lagoon-examples/drupal-opensearch) - As Drupal-base, with Opensearch as a search backend
+- [Drupal-opensearch](https://github.com/lagoon-examples/drupal-opensearch) - As Drupal-base, with OpenSearch as a search backend
 - [Drupal-postgres](https://github.com/lagoon-examples/drupal-postgres) - As Drupal-base, with PostgreSQL as a database backend
-- [Drupal9-varnish](https://github.com/lagoon-examples/drupal9-varnish) - As Drupal9-base, with Varnish 6 as an HTTP cache
-- [Drupal9-full](https://github.com/lagoon-examples/drupal9-full) - As Drupal9-base, but with Redis 6 as a cache backend and Solr 8 as a search backend
-- [Drupal10-base](https://github.com/lagoon-examples/drupal10-base) - Drupal 10, PHP 8.1, NGINX, MariaDB, also includes an PHP8.2-based version on a [branch](https://github.com/lagoon-examples/drupal10-base/tree/php82)
-  
-### Wordpress
+- [Drupal-next-base](https://github.com/lagoon-examples/drupal-next-base) - Drupal 11 (next major release), PHP 8.1, NGINX, MariaDB
 
+### Wordpress
 - [Wordpress-base](https://github.com/lagoon-examples/wordpress-base) - Wordpress 6, PHP 8, NGINX, MariaDB
 
-### Laravel
+## Example [see all](https://github.com/search?q=topic%3Aexample+org%3Alagoon-examples&type=Repositories)
+Examples are full featured applications, configured to run on Lagoon. They are not generally suitable for extension into a customised site. They are self-contained, built with tests, and regularly updated.
 
+### Laravel
 - [Laravel-simple](https://github.com/lagoon-examples/laravel-example-simple) - Laravel 11.10.0, NGINX, PHP 8, MySQL, Redis
 
+### Ruby
+- [Ruby-on-rails](https://github.com/lagoon-examples/ruby-on-rails) - RoR 7, Puma 6, NGINX, PostgreSQL
 
-## Other Examples
-- [Ruby-on-rails](https://github.com/lagoon-examples/ruby-on-rails) - RoR 7, Puma 5, NGINX, MariaDB
+## Demos [see all](https://github.com/search?q=topic%3Ademo+org%3Alagoon-examples&type=Repositories)
+Demos are one-off applications, intended to demonstrate how Lagoon works in a variety of Applications, Languages and Frameworks. They might not contain tests, usually aren't regularly updated, and generally are not suitable for extension into a site.
+
+There are a variety of demos [here](https://github.com/search?q=topic%3Ademo+org%3Alagoon-examples&type=Repositories), 
+
+## No Longer Maintained Demos, Examples and Templates 
+- [Drupal9-varnish](https://github.com/lagoon-examples/drupal9-varnish) - As Drupal9-base, with Varnish 6 as an HTTP cache
+- [Drupal9-full](https://github.com/lagoon-examples/drupal9-full) - As Drupal9-base, but with Redis 6 as a cache backend and Solr 8 as a search backend
 
 ## Maintenance of these examples
 
