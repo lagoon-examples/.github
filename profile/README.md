@@ -2,8 +2,20 @@
 
 This is a repository of example Lagoon projects - designed for use with [Lagoon](https://lagoon.sh) and its local development environments.
 
+|  | Demo | Example | Template |
+|---|---|---|---|
+| Works on Lagoon | Yes | Yes | Yes |
+| Uses Lagoon Images (where available) | Yes | Yes | Yes |
+| Is Maintained |  | Yes | Yes |
+| Has Automated Updates |  | Yes | Yes |
+| Has Test Coverage |  | Yes | Yes |
+| Has Documentation |  | Yes | Yes |
+| Has Ecosystem Tooling Integration |  | Maybe | Maybe |
+| Application Logging Integration |  | Maybe | Maybe |
+| Easily extendable and customisable |  |  | Yes |
+
 ## Templates [see all](https://github.com/search?q=topic%3Atemplate+org%3Alagoon-examples&type=Repositories)
-Templates are the highest-standard Lagoon templates - they are configured to be a base for your site, and you should be able to add your modules, themes and configs. They are self-contained, built with tests, and regularly updated.
+Templates are the highest-standard Lagoon templates - they are configured to be a base for your site, and you should be able to add your modules, themes, and configs. They are self-contained, built with tests, and regularly updated.
 
 ### Drupal
 - [Drupal-base](https://github.com/lagoon-examples/drupal-base) - Drupal 10, PHP 8, NGINX, MariaDB
@@ -15,11 +27,11 @@ Templates are the highest-standard Lagoon templates - they are configured to be 
 ### Wordpress
 - [Wordpress-base](https://github.com/lagoon-examples/wordpress-base) - Wordpress 6, PHP 8, NGINX, MariaDB
 
-## Example [see all](https://github.com/search?q=topic%3Aexample+org%3Alagoon-examples&type=Repositories)
-Examples are full featured applications, configured to run on Lagoon. They are not generally suitable for extension into a customised site. They are self-contained, built with tests, and regularly updated.
-
 ### Laravel
 - [Laravel-simple](https://github.com/lagoon-examples/laravel-example-simple) - Laravel 11.10.0, NGINX, PHP 8, MySQL, Redis
+
+## Examples [see all](https://github.com/search?q=topic%3Aexample+org%3Alagoon-examples&type=Repositories)
+Examples are full featured applications, configured to run on Lagoon. They are not generally suitable for extension into a customised site. They are self-contained, built with tests, and regularly updated.
 
 ### Ruby
 - [Ruby-on-rails](https://github.com/lagoon-examples/ruby-on-rails) - RoR 7, Puma 6, NGINX, PostgreSQL
@@ -27,7 +39,7 @@ Examples are full featured applications, configured to run on Lagoon. They are n
 ## Demos [see all](https://github.com/search?q=topic%3Ademo+org%3Alagoon-examples&type=Repositories)
 Demos are one-off applications, intended to demonstrate how Lagoon works in a variety of Applications, Languages and Frameworks. They might not contain tests, usually aren't regularly updated, and generally are not suitable for extension into a site.
 
-There are a variety of demos [here](https://github.com/search?q=topic%3Ademo+org%3Alagoon-examples&type=Repositories), 
+There are a variety of demos [here](https://github.com/search?q=topic%3Ademo+org%3Alagoon-examples&type=Repositories), some more complete and working than others. 
 
 ## No Longer Maintained Demos, Examples and Templates 
 - [Drupal9-varnish](https://github.com/lagoon-examples/drupal9-varnish) - As Drupal9-base, with Varnish 6 as an HTTP cache
