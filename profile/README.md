@@ -22,7 +22,7 @@ Templates are the highest-standard Lagoon templates - they are configured to be 
 - [Drupal-solr](https://github.com/lagoon-examples/drupal-solr) - As Drupal-base, with Solr as a search backend, also includes a Solr 9-based version on a [branch](https://github.com/lagoon-examples/drupal-solr/tree/solr9)
 - [Drupal-opensearch](https://github.com/lagoon-examples/drupal-opensearch) - As Drupal-base, with OpenSearch as a search backend
 - [Drupal-postgres](https://github.com/lagoon-examples/drupal-postgres) - As Drupal-base, with PostgreSQL as a database backend
-- [Drupal-next-base](https://github.com/lagoon-examples/drupal-next-base) - Drupal 11 (next major release), PHP 8.1, NGINX, MariaDB
+- [Drupal-next-base](https://github.com/lagoon-examples/drupalnext-base) - Drupal 11 (next major release), PHP 8.1, NGINX, MariaDB
 
 ### Wordpress
 - [Wordpress-base](https://github.com/lagoon-examples/wordpress-base) - Wordpress 6, PHP 8, NGINX, MariaDB
